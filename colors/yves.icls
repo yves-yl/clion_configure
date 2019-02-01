@@ -1,10 +1,10 @@
-<scheme name="clion" version="142" parent_scheme="Default">
+<scheme name="yves" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-02-01T16:09:37</property>
+    <property name="created">2019-02-01T16:44:40</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-01T16:09:41</property>
-    <property name="originalScheme">Default copy</property>
+    <property name="modified">2019-02-01T16:46:18</property>
+    <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <attributes>
     <option name="OC.BLOCK_COMMENT">
@@ -36,8 +36,7 @@
     </option>
     <option name="OC.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="aa0d91" />
       </value>
     </option>
     <option name="OC.LINE_COMMENT">
@@ -49,6 +48,11 @@
     <option name="OC.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="c8531d" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="8080" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
@@ -68,12 +72,13 @@
     </option>
     <option name="OC.TEMPLATE_TYPE">
       <value>
-        <option name="FOREGROUND" value="8080" />
+        <option name="FOREGROUND" value="371f80" />
       </value>
     </option>
-    <option name="OC.TYPEDEF">
+    <option name="OC.TEMPLATE_VALUE">
       <value>
-        <option name="FOREGROUND" value="8080" />
+        <option name="FOREGROUND" value="371f80" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
   </attributes>

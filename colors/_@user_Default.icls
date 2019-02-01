@@ -3,7 +3,7 @@
     <property name="created">2018-12-13T16:27:10</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-30T10:35:21</property>
+    <property name="modified">2019-02-01T16:44:10</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -36,8 +36,7 @@
     </option>
     <option name="OC.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="aa0d91" />
       </value>
     </option>
     <option name="OC.LINE_COMMENT">
@@ -49,6 +48,11 @@
     <option name="OC.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="c8531d" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="8080" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
