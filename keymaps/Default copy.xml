@@ -1,0 +1,15 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="NextParameter" />
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+</keymap>
