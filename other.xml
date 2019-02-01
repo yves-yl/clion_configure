@@ -1,9 +1,15 @@
 <application>
   <component name="PropertiesComponent">
-    <property name="SettingsSearchHistory" value="pair&#10;font&#10;reopen&#10;memory&#10;fold" />
-    <property name="evlsprt3.183" value="11" />
-    <property name="file.gist.reindex.count" value="11" />
-    <property name="lastTip" value="2" />
-    <property name="selected.color.option.type" value="TYPO" />
+    <property name="ColorChooser.RecentColors" value="23-23-200-255,,,200-11-21-255,,,61-61-61-255,,,75-75-75-255,,,200-83-29-255,,,0-128-128-255,,,102-14-122-255,,,0-128-0-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="typo" />
+    <property name="KEYMAP" value="forward&#10;back" />
+    <property name="SettingsSearchHistory" value="back&#10;memor&#10;font&#10;case&#10;reopen" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/Cpp&#10;/home/yves/Projects/Cpp/base_cpp/pointer" />
+    <property name="file.gist.reindex.count" value="17" />
+    <property name="lastTip" value="5" />
+    <property name="selected.color.option.type" value="OC.GLOBAL_VARIABLE" />
   </component>
 </application>
