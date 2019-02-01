@@ -7,4 +7,7 @@
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
   </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
 </application>

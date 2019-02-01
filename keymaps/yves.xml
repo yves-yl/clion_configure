@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="Default for XWin">
+<keymap version="1" name="yves" parent="Default for XWin">
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
@@ -12,4 +12,6 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="PrevParameter" />
+  <action id="PreviousTemplateVariable" />
 </keymap>
