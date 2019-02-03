@@ -1,0 +1,8 @@
+<templateSet group="C/C++">
+  <template name="fora" value="for(int i = 0; i &lt; m; ++i){&#10;    &#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
