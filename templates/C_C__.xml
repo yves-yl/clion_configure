@@ -5,4 +5,12 @@
       <option name="cpp" value="true" />
     </context>
   </template>
+  <template name="itit" value="for (auto itr = m.begin(); itr != m.end(); ++itr) {&#10;}" description="Iterate using begin/end member functions" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="noex" value="noexcept" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
