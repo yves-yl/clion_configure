@@ -1,31 +1,7 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="PARAMETER_INFO_DELAY" value="200" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="SMART_INDENT_ON_ENTER" value="false" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
-    <option name="JAVADOC_STUB_ON_ENTER" value="false" />
-    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
-    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
-  </component>
-  <component name="OCCodeFoldingSettings">
-    <option name="collapseTemplateParamList" value="false" />
-    <option name="COLLAPSE_TEMPLATE_PARAM_LIST" value="false" />
-  </component>
   <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
     <option name="useAliasInJoinCompletion" value="false" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
-    <option name="COLLAPSE_ENTITIES" value="false" />
-    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
