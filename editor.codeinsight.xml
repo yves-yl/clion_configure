@@ -14,6 +14,7 @@
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="yves" />
   <component name="OCCodeFoldingSettings">
     <option name="collapseTemplateParamList" value="false" />
     <option name="COLLAPSE_TEMPLATE_PARAM_LIST" value="false" />
