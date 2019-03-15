@@ -6,6 +6,7 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="JsonEditorOptions">
     <option name="COMMA_ON_ENTER" value="false" />
@@ -30,5 +31,6 @@
     <option name="insertQuotesForAttributeValue" value="false" />
     <option name="selectWholeCssIdentifierOnDoubleClick" value="false" />
     <option name="syncTagEditing" value="false" />
+    <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
 </application>
